@@ -1,0 +1,147 @@
+Condition,Sub-Condition,Cu-IUD,LNG-IUD,Implant,DMPA,POP,CHC
+Anatomical abnormalities,Distorted uterine cavity,4,4,,,,
+Anatomical abnormalities,Other abnormalities,2,2,,,,
+Anemias,Thalassemia,2,1,1,1,1,1
+Anemias,Sickle cell disease,2,1,1,1,1,2
+Anemias,Iron-deficiency anemia,2,1,1,1,1,1
+Benign ovarian tumors,(including cysts),1,1,1,1,1,1
+Breast disease,Undiagnosed mass,1,2,2,2,2,2
+Breast disease,Benign breast disease,1,1,1,1,1,1
+Breast disease,Family history of cancer,1,1,1,1,1,1
+Breast disease,Current breast cancer,1,4,4,4,4,4
+Breast disease,Past breast cancer (5 years),1,3,3,3,3,3
+Breastfeeding,<21 days postpartum,,2,2,2,4
+Breastfeeding,21 to <30 days postpartum with VTE risk,,2,2,2,3
+Breastfeeding,21 to <30 days postpartum without VTE risk,,2,2,2,3
+Breastfeeding,30-42 days postpartum with VTE risk,,1,1,1,3
+Breastfeeding,30-42 days postpartum without VTE risk,,1,1,1,2
+Breastfeeding,>42 days postpartum,,1,1,1,2
+Cervical cancer,Awaiting treatment,4,4,2,2,1,2
+Cervical ectropion,,1,1,1,1,1,1
+Cervical intraepithelial neoplasia,,1,2,2,2,1,2
+Cirrhosis,Mild (compensated),1,1,1,1,1,1
+Cirrhosis,Severe (decompensated),1,3,3,3,3,4
+Cystic fibrosis,,1,1,1,2,1,1
+Deep venous thrombosis (DVT)/Pulmonary embolism (PE),History of DVT/PE (higher risk),1,2,2,2,2,4
+Deep venous thrombosis (DVT)/Pulmonary embolism (PE),History of DVT/PE (lower risk),1,2,2,2,2,3
+Deep venous thrombosis (DVT)/Pulmonary embolism (PE),Acute DVT/PE,2,2,2,2,2,4
+Deep venous thrombosis (DVT)/Pulmonary embolism (PE),DVT/PE on anticoagulant therapy (higher risk),2,2,2,2,2,4
+Deep venous thrombosis (DVT)/Pulmonary embolism (PE),DVT/PE on anticoagulant therapy (lower risk),2,2,2,2,2,3
+Deep venous thrombosis (DVT)/Pulmonary embolism (PE),Family history,1,1,1,1,1,2
+Deep venous thrombosis (DVT)/Pulmonary embolism (PE),Major surgery with prolonged immobilization,1,2,2,2,2,4
+Deep venous thrombosis (DVT)/Pulmonary embolism (PE),Major surgery without prolonged immobilization,1,1,1,1,1,2
+Deep venous thrombosis (DVT)/Pulmonary embolism (PE),Minor surgery without immobilization,1,1,1,1,1,1
+Depressive disorders,,1,1,1,1,1,1
+Diabetes,History of gestational disease,1,1,1,1,1,1
+Diabetes,Nonvascular disease (non-insulin dependent),1,2,2,2,2,2
+Diabetes,Nonvascular disease (insulin dependent),1,2,2,2,2,2
+Diabetes,Nephropathy/retinopathy/neuropathy,1,2,2,3,2,3/4
+Diabetes,Other vascular disease or >20 years' duration,1,2,2,3,2,3/4
+Dysmenorrhea,Severe,2,1,1,1,1,1
+Endometrial cancer,,4,4,1,1,1,1
+Endometrial hyperplasia,,1,1,1,1,1,1
+Endometriosis,,2,1,1,1,1,1
+Epilepsy,,1,1,1,1,1,1
+Gallbladder disease,Treated by cholecystectomy,1,2,2,2,2,2
+Gallbladder disease,Medically treated,1,2,2,2,2,3
+Gallbladder disease,Current,1,2,2,2,2,3
+Gallbladder disease,Asymptomatic,1,2,2,2,2,2
+Gestational trophoblastic disease,Suspected GTD (uterine size first trimester),1,1,1,1,1,1
+Gestational trophoblastic disease,Suspected GTD (uterine size second trimester),2,2,1,1,1,1
+Gestational trophoblastic disease,Confirmed GTD (undetectable ß-hCG levels),1,1,1,1,1,1
+Gestational trophoblastic disease,Confirmed GTD (decreasing ß-hCG levels),2,2,1,1,1,1
+Gestational trophoblastic disease,Confirmed GTD (persistently elevated ß-hCG levels without intrauterine disease),2,2,1,1,1,1
+Gestational trophoblastic disease,Confirmed GTD (persistently elevated ß-hCG levels with intrauterine disease),4,4,1,1,1,1
+Headaches,Nonmigraine (mild or severe),1,1,1,1,1,1
+Headaches,Migraine without aura,1,1,1,1,1,2
+Headaches,Migraine with aura,1,1,1,1,1,4
+History of bariatric surgery,Restrictive procedures,1,1,1,1,1,1
+History of bariatric surgery,Malabsorptive procedures,1,1,1,1,3,3
+History of cholestasis,Pregnancy related,1,1,1,1,1,2
+History of cholestasis,Past COC related,1,2,2,2,2,3
+History of high blood pressure during pregnancy,,1,1,1,1,1,2
+History of Pelvic surgery,,1,1,1,1,1,1
+HIV,High risk for HIV,1,1,1,1,1,1
+HIV,HIV infection (clinically well receiving ARV therapy),1,1,1,1,1,1
+HIV,HIV infection (not clinically well or not receiving ARV therapy),2,2,1,1,,
+Hypertension,Adequately controlled hypertension,1,1,1,2,1,3
+Hypertension,Elevated blood pressure (systolic 140-159 or diastolic 90-99),1,1,1,2,1,3
+Hypertension,Elevated blood pressure (systolic ≥160 or diastolic ≥100),1,2,2,3,2,4
+Hypertension,Vascular disease,1,2,2,3,2,4
+Inflammatory bowel disease,(Ulcerative colitis Crohn's disease),1,1,1,2,2,2/3
+Ischemic heart disease,Current and history of,1,2,3,3,3,4
+Known thrombogenic mutations,,1,2,2,2,2,4
+Liver tumors,Benign (Focal nodular hyperplasia),1,2,2,2,2,2
+Liver tumors,Benign (Hepatocellular adenoma),1,3,3,3,3,4
+Liver tumors,Malignant (hepatoma),1,3,3,3,3,4
+Malaria,,1,1,1,1,1,1
+Multiple risk factors for atherosclerotic cardiovascular disease,,1,2,2,3,2,3/4
+Multiple sclerosis,With prolonged immobility,1,1,1,2,1,3
+Multiple sclerosis,Without prolonged immobility,1,1,1,2,1,1
+Obesity,BMI ≥30 kg/m2,1,1,1,1,1,2
+Obesity,Menarche to <18 years and BMI ≥ 30 kg/m2,1,1,1,2,1,2
+Ovarian cancer,,1,1,1,1,1,1
+Parity,Nulliparous,2,2,1,1,1,1
+Parity,Parous,1,1,1,1,1,1
+Past ectopic pregnancy,,1,1,1,1,2,1
+Pelvic inflammatory disease,Past with subsequent pregnancy,1,1,1,1,1,1
+Pelvic inflammatory disease,Past without subsequent pregnancy,2,2,1,1,1,1
+Pelvic inflammatory disease,Current,4,4,1,1,1,1
+Peripartum cardiomyopathy,Normal/mildly impaired cardiac function <6 months,2,2,1,1,1,4
+Peripartum cardiomyopathy,Normal/mildly impaired cardiac function ≥6 months,2,2,1,1,1,3
+Peripartum cardiomyopathy,Moderately or severely impaired cardiac function,2,2,2,2,2,4
+Postabortion,First trimester,1,1,1,1,1,1
+Postabortion,Second trimester,2,2,1,1,1,1
+Postabortion,Immediate postseptic abortion,4,4,1,1,1,1
+Postpartum (nonbreastfeeding),<21 days,1,1,1,1,1,4
+Postpartum (nonbreastfeeding),21-42 days with other risk factors for VTE,1,1,1,1,1,3
+Postpartum (nonbreastfeeding),21-42 days without other risk factors for VTE,1,1,1,1,1,2
+Postpartum (nonbreastfeeding),>42 days,1,1,1,1,1,1
+Postpartum (<10 min after placenta delivery),Breastfeeding,1,2,,,,
+Postpartum (<10 min after placenta delivery),Nonbreastfeeding,1,1,,,,
+Postpartum (10 min to <4 weeks after delivery),,2,2,,,,
+Postpartum (≥4 weeks),,1,1,,,,
+Postpartum sepsis,,4,4,,,,
+Pregnancy,,4,4,NA,NA,NA,NA
+Rheumatoid arthritis,On immunosuppressive therapy,2,2,1,2/3,1,2
+Rheumatoid arthritis,Not on immunosuppressive therapy,1,1,1,2,1,2
+Schistosomiasis,Uncomplicated,1,1,1,1,1,1
+Schistosomiasis,Fibrosis of the liver,1,1,1,1,1,1
+Sexually transmitted diseases,Current purulent cervicitis or chlamydial/gonococcal infection,4,4,1,1,1,1
+Sexually transmitted diseases,Vaginitis,2,2,1,1,1,1
+Sexually transmitted diseases,Other factors relating to STDs,2,2,1,1,1,1
+Smoking,Age <35,1,1,1,1,1,2
+Smoking,Age ≥35 <15 cigarettes/day,1,1,1,1,1,3
+Smoking,Age ≥35 ≥15 cigarettes/day,1,1,1,1,1,4
+Solid organ transplantation,Complicated,3,3,2,2,2,4
+Solid organ transplantation,Uncomplicated,2,2,2,2,2,2
+Stroke,History of cerebrovascular accident,1,2,2,3,2,4
+Superficial venous disorders,Varicose veins,1,1,1,1,1,1
+Superficial venous disorders,Superficial venous thrombosis,1,1,1,1,1,3
+Systemic lupus erythematosus,Positive antiphospholipid antibodies,1,1,3,3,3,4
+Systemic lupus erythematosus,Severe thrombocytopenia,3,2,2,3,2,2
+Systemic lupus erythematosus,Immunosuppressive therapy,2,1,2,2,2,2
+Systemic lupus erythematosus,None of the above,1,1,2,2,2,2
+Thyroid disorders,Simple goiter/hyperthyroid/hypothyroid,1,1,1,1,1,1
+Tuberculosis,Nonpelvic,1,1,1,1,1,1
+Tuberculosis,Pelvic,4,4,1,1,1,1
+Unexplained vaginal bleeding,,4,4,3,3,2,2
+Uterine fibroids,,2,2,1,1,1,1
+Valvular heart disease,Uncomplicated,1,1,1,1,1,2
+Valvular heart disease,Complicated,1,1,1,1,1,4
+Vaginal bleeding patterns,Irregular pattern without heavy bleeding,1,1,1,2,2,1
+Vaginal bleeding patterns,Heavy or prolonged bleeding,2,2,2,2,2,1
+Viral hepatitis,Acute or flare,1,1,1,1,1,3/4
+Viral hepatitis,Carrier/Chronic,1,1,1,1,1,1
+Certainly, I'll continue with the drug interactions section. Here's the final portion of the data:
+csvCopyCondition,Sub-Condition,Cu-IUD,LNG-IUD,Implant,DMPA,POP,CHC
+Drug Interactions,Antiretrovirals (Fosamprenavir),1/2,1/2,2,2,2,3
+Drug Interactions,Antiretrovirals (All others),1 or 2,1 or 2,1 or 2,1 or 2,1 or 2,1 or 2
+Drug Interactions,Anticonvulsants (phenytoin carbamazepine barbiturates primidone topiramate oxcarbazepine),1,1,2,1,3,3
+Drug Interactions,Anticonvulsants (Lamotrigine),1,1,1,1,1,3
+Drug Interactions,Antimicrobial (Broad spectrum antibiotics),1,1,1,1,1,1
+Drug Interactions,Antimicrobial (Antifungals),1,1,1,1,1,1
+Drug Interactions,Antimicrobial (Antiparasitics),1,1,1,1,1,1
+Drug Interactions,Antimicrobial (Rifampin or rifabutin therapy),1,1,2,1,3,3
+Drug Interactions,SSRIs,1,1,1,1,1,1
+Drug Interactions,St. John's wort,1,1,2,1,2,2
